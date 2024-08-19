@@ -48,6 +48,13 @@
     border-radius: 50px;
     border: 2px solid #fff;
 }
+.hero-resume a{
+    text-decoration: none;
+    color: #fff;
+}
+.hero-resume a:hover{
+    color:#B415FF;
+}
 .hero-connect:hover{
     border: 2px solid white;
 }
