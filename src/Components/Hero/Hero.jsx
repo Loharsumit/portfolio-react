@@ -10,7 +10,7 @@ const Hero = () => {
         <h1><span>I'm Sumit Lohar</span>, frontend developer.</h1>
         <p>Aspiring Web Developer | HTML, CSS, JavaScript, React.js | Passionate About Creating Responsive & User-Friendly Websites</p>
         <div className="hero-action">
-            <div className="hero-connect"><AnchorLink className='anchor-link' offset={50} href='#contact'>Connect with me</AnchorLink></div>
+            <div className="hero-connect"><a className='anchor-link' offset={50} href='https://www.linkedin.com/in/sumit-lohar-6844a917a/'>Connect me on LinkedIn</a></div>
             <div className="hero-resume"><a href='https://sumitloharresume.tiiny.site/'>My resume</a></div>
         </div>
     </div>
