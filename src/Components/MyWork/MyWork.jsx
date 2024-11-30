@@ -21,7 +21,7 @@ const MyWork = () => {
         })}
        </div>
        <div className="mywork-showmore">
-        <p>Show More</p>
+        <a href='https://projects-flax-three.vercel.app/'>Show More</a>
         <img src={arrow_icon} alt="" />
        </div>
     </div>
