@@ -20,10 +20,10 @@ const MyWork = () => {
             );
         })}
        </div>
-       <div className="mywork-showmore">
-        <a href='https://projects-flax-three.vercel.app/'>Show More</a>
+       <a className="mywork-showmore" href='https://projects-flax-three.vercel.app/'>
+        <p>Show More</p>
         <img src={arrow_icon} alt="" />
-       </div>
+       </a>
     </div>
   )
 }
