@@ -13,7 +13,7 @@ const Footer = () => {
             <h1>Sumit</h1>
             <img src={theme_pattern} alt="" />
             </div>
-            <p>Aspiring Web Developer | HTML, CSS, JavaScript, React.js | Passionate About Creating Responsive & User-Friendly Websites.</p>
+            <p>Experienced Web Developer | Proficient in HTML, CSS, JavaScript and React.js | Vue.js | 3+ Yrs | Bengaluru | Passionate about Creating Innovative and User-Friendly Websites.</p>
         </div>
         <div className="footer-top-right">
             <div className="footer-email-input">
@@ -25,7 +25,7 @@ const Footer = () => {
        </div>
        <hr />
        <div className="footer-bottom">
-          <p className='footer-bottom-left'>© 2024 Sumit Lohar. All rights reserved.</p>
+          <p className='footer-bottom-left'>© 2026 Sumit Lohar. All rights reserved.</p>
           <div className="footer-bottom-right">
             <p>Term of Services</p>
             <p>Privacy Policy</p>
