@@ -16,13 +16,16 @@ const About = () => {
             </div>
             <div className="about-right">
                 <div className="about-para">
-                    <p>As a skilled Web Developer specializing in HTML, CSS, JavaScript, and React.js, I am passionate about building responsive and user-friendly websites. With hands-on experience in creating innovative web applications, I thrive in collaborative environments that value creativity and continuous learning.</p>
-                    <p>I am dedicated to professional growth and am eager to tackle challenging projects that push the boundaries of web development. My goal is to contribute to impactful projects and enhance user experiences through cutting-edge technology.</p>
+                    <p>I'm Sumit Lohar, a Frontend Developer based in Bengaluru, India, with 3+ years of experience building responsive, performant, and user-friendly web applications.
+I specialize in React.js and Vue.js, and I love turning complex problems into clean, intuitive interfaces. From architecting scalable UI modules to integrating RESTful APIs and optimizing performance — I take pride in writing code that's not just functional, but maintainable and impactful.</p>
+                    <p>I've worked across projects in pharmacy management, classifieds, matrimonial platforms, and content management systems — each one teaching me something new about building for real users at scale.
+When I'm not coding, I'm exploring new JavaScript frameworks, experimenting with UI patterns, or working on side projects that push my skills further.</p>
                 </div>
                 <div className="about-skills">
                     <div className="about-skill"><p>HTML & CSS</p><hr style={{width:"80%"}}/></div>
-                    <div className="about-skill"><p>Javascript</p><hr style={{width:"70%"}}/></div>
-                    <div className="about-skill"><p>React JS</p><hr style={{width:"60%"}}/></div>
+                    <div className="about-skill"><p>Javascript</p><hr style={{width:"90%"}}/></div>
+                    <div className="about-skill"><p>React JS</p><hr style={{width:"70%"}}/></div>
+                    <div className="about-skill"><p>Vue JS</p><hr style={{width:"60%"}}/></div>
                     <div className="about-skill"><p>Git & Github</p><hr style={{width:"50%"}}/></div>
                     <div className="about-skill"><p>Boostrap</p><hr style={{width:"70%"}}/></div>
                 </div>
@@ -30,7 +33,7 @@ const About = () => {
         </div>
         <div className="about-achievements">
             <div className="about-achievement">
-                <h1>2+</h1>
+                <h1>3+</h1>
                 <p>YEARS OF EXPERIENCE</p>
             </div>
             <hr />
